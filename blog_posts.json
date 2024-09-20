@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "author": "Alireza Kargar",
+        "title": "Python",
+        "content": "Here we learn about Python!"
+    },
+    {
+        "id": 2,
+        "author": "Alireza Kargar",
+        "title": "AWS",
+        "content": "Here we learn AWS!"
+    },
+    {
+        "id": 3,
+        "author": "Alireza Kargar",
+        "title": "Javascripts",
+        "content": "This is about JS!"
+    }
+]
